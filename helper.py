@@ -37,4 +37,3 @@ def plot_max() :
 	cv2.rectangle(maxbar, (0,0), (50,50), x, -1)
 
 	return maxbar
-
